@@ -1,3 +1,3 @@
 # serialport_flutter
 
-串口实现在Android平台和windows平台
+串口通信实现在Android平台和windows平台
